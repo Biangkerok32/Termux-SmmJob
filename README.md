@@ -32,6 +32,14 @@ ________________________________________________________________________________
 + Run Termux
 + $ python smmbot.py
 
+
+# SCREENSHOT
+
+![SSMJOB-BOT](https://github.com/Biangkerok32/Termux-SmmJob/raw/main/img/preview.png)
+
+
+
+
 # Credit
 
 + [BOT HAT - TBN](https://github.com/BOT-HAT/Smm-Job-Bot)
